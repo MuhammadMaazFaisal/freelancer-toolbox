@@ -22,6 +22,9 @@ Freelancers juggle a lot—designing, marketing, writing, and more. This repo is
 
 ### AI Tools
 
+**Name:** Namelix  
+**Link:** https://namelix.com  
+**Description:** Generates unique, brandable business names using AI. It learns from your preferences to suggest short, catchy names along with available domain options.
 
 
 ### Design Tools
